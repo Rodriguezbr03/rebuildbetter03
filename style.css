@@ -5,4 +5,5 @@ body {
 }
 .headers {
   text-align: center;
+  text-underline-position: below;
 }
