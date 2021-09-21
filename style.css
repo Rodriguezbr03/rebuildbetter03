@@ -2,6 +2,31 @@ body {
   background-color: #0fffff;
   background-position: center;
 }
+
+.headers {
+background-color:black;
+padding: 2px;
+text-align: center;
+}
+
+.headers li{
+  justify-content: space-between;
+  padding: 7px;
+}
+
+.headers ul{
+padding: 1px;
+display: inline-block;
+}
+
+.headers ul li{
+text-decoration:none;
+}
+ul a:hover{
+  background-color:2px #ffffff;
+}
+
+}
 .Footer {
   text-align: center;
   position: absolute;
