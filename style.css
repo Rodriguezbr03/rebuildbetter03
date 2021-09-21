@@ -4,7 +4,7 @@ body {
 }
 
 .headers {
-background-color:black;
+background-image: url("ParchedWateryKillerwhale-size_restricted.gif");
 padding: 2px;
 text-align: center;
 }
@@ -19,11 +19,27 @@ padding: 1px;
 display: inline-block;
 }
 
-.headers ul li{
+.headers ul li a{
 text-decoration:none;
+justify-content: space-between;
+color:#ffff;
 }
-ul a:hover{
-  background-color:2px #ffffff;
+.headers ul{
+list-style-type: none;
+}
+.Logo li{
+  list-style-type: none;
+  padding: 2px;
+}
+ul li a:hover{
+color:#1A6000;
+background-color:#010A65;
+}
+.Logo li a.right{
+color:#ffffff;
+position: relative;
+text-decoration: none;
+top:-130px;
 }
 
 }
