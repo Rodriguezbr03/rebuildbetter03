@@ -25,6 +25,7 @@ text-align: center;
   height: 50px;
   position: relative;
   top:-132px;
+  border-radius: 50%;
 }
 
 .headers ul{
@@ -76,17 +77,18 @@ top:57px;
 }
 .Paragraph h2{
   text-align: center;
+  padding-top: -30px;
 }
 .Paragraph p{
   border: 1px solid none;
-  background-image: url("background-design-trends.jpg");
+  background-image: url("light-background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 50px;
   padding-right: 20px;
   padding-bottom: 130px;
   padding-left: 30px;
-  width: 580px;
+  width: 560px;
 }
 .Conteiner p{
 text-align: right;
@@ -97,10 +99,11 @@ background-image: url("photo-1542744173-8e7e53415bb0.jfif");
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
-padding-bottom: 390px;
+padding-bottom: 545px;
 padding-right: 20px;
-padding-top: 20px;
-width: 670px;
+padding-top: 10px;
+width: 687px;
 padding-left: 10px;
 float: right;
+border-radius: 87%;
 }
