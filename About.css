@@ -15,7 +15,7 @@ border-bottom: 1px solid #535353;
 background-color: #f4623a;
 }
 .container p{
-  text-align: center;
+  text-align: left;
 }
 .Blog p{
   background-image: url("stock-vector-communication-and-networking-in-a-digital-society-white-background-future-city-or-smart-city-1450416461.jpg");
@@ -29,7 +29,7 @@ background-color: #f4623a;
   border-radius: 70%;
 }
 .brightnes p{
-text-align: center;
+text-align: left;
 }
 
 * {box-sizing: border-box}
