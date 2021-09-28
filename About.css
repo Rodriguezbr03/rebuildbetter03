@@ -1,0 +1,32 @@
+body{
+background-color: #ffffff;
+}
+.wrapper h2 {
+text-align: center;
+font-size: 2.2rem;
+padding: 80px 30px;
+margin: 20px;
+color: #303030;
+text-transform: uppercase;
+font-weight: 800;
+border-top: 1px solid #535353;
+border-bottom: 1px solid #535353;
+background-color: #f4623a;
+}
+.container p{
+  text-align: center;
+}
+.Blog p{
+  background-image: url("stock-vector-communication-and-networking-in-a-digital-society-white-background-future-city-or-smart-city-1450416461.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  top: 40px;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 70%;
+}
+.brightnes p{
+text-align: center;
+}
