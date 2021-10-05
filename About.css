@@ -30,6 +30,7 @@ background-color: #f4623a;
 }
 .brightnes p{
 text-align: left;
+padding: 20px;
 }
 
 * {box-sizing: border-box}

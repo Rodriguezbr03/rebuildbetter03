@@ -90,7 +90,8 @@ top:57px;
   padding-right: 20px;
   padding-bottom: 130px;
   padding-left: 190px;
-  width: 560px;
+  max-width:700px;
+  min-width:250px;
   border-radius: 3%;
 }
 .Conteiner p{
