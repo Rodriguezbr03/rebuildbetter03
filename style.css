@@ -61,7 +61,6 @@ text-decoration: none;
 top:57px;
 }
 
-}
 /*footer element*/
 .Footer {
   text-align: center;
@@ -236,13 +235,13 @@ label.fcf-label {
 }
 
 .fcf-btn-primary {
-    color: #fff;
+    color: #ffffffff;
     background-color: #007bff;
     border-color: #007bff;
 }
 
 .fcf-btn-primary:hover {
-    color: #fff;
+    color: #ffffffff;
     background-color: #0069d9;
     border-color: #0062cc;
 }
