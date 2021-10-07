@@ -116,6 +116,7 @@ border-radius: 20%;
     background-color: #cce7e8;
 }
 
+
 .fcf-body {
     margin: 0;
     font-family: -apple-system, Arial, sans-serif;
@@ -198,7 +199,7 @@ label.fcf-label {
     text-decoration: underline;
 }
 
-.fcf-btn {
+.fcf-btn .fcf-h3{
     display: inline-block;
     font-weight: 400;
     color: #212529;
