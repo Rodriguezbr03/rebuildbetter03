@@ -5,7 +5,7 @@ body {
 }
 /*About menu element*/
 .headers {
-background-image: url("ParchedWateryKillerwhale-size_restricted.gif");
+background-image: url("img/ParchedWateryKillerwhale-size_restricted.gif");
 padding: 2px;
 text-align: center;
 }
@@ -16,7 +16,7 @@ text-align: center;
 }
 /*Logo menu*/
 .Logo {
-  background-image: url("rb-logo-metal-silver-monogram-260nw-1019599438.jpg");
+  background-image: url("img/rb-logo-metal-silver-monogram-260nw-1019599438.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left;
@@ -82,7 +82,7 @@ top:57px;
 /*paragraph-css*/
 .Paragraph p{
   border: 1px solid none;
-  background-image: url("light-background.jpg");
+  background-image: url("img/light-background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 50px;
@@ -98,7 +98,7 @@ text-align: right;
 padding-right: none;
 padding-bottom: 30px;
 top: -20px;
-background-image: url("photo-1542744173-8e7e53415bb0.jfif");
+background-image: url("img/photo-1542744173-8e7e53415bb0.jfif");
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
