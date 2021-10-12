@@ -14,8 +14,63 @@ border-top: 1px solid #535353;
 border-bottom: 1px solid #535353;
 background-color: #f4623a;
 }
+
+.headers {
+background-image: url("img/ParchedWateryKillerwhale-size_restricted.gif");
+padding: 2px;
+text-align: center;
+}
+.headers li{
+  justify-content: space-between;
+  padding: 7px;
+}
+.headers ul{
+padding: 1px;
+display: inline-block;
+}
+/*justify space betwen element and color*/
+.headers ul li a{
+text-decoration:none;
+justify-content: space-between;
+color:#ffff;
+}
+/*To remove ul list*/
+.headers ul{
+list-style-type: none;
+}
+/*remove ul list for Logo element*/
+.Logo li{
+  list-style-type: none;
+  padding: 2px;
+}
+/*hover for headers element*/
+ul li a:hover{
+color:#1A6000;
+background-color:#010A65;
+}
 .container p{
   text-align: left;
+}
+
+.Logo {
+  background-image: url("img/rb-logo-metal-silver-monogram-260nw-1019599438.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left;
+  padding: 5px;
+  margin: 0px;
+  width: 54px;
+  height: 50px;
+  position: relative;
+  top:-132px;
+  border-radius: 50%;
+}
+
+.Logo li a.right{
+color:#ffffff;
+position: relative;
+text-decoration: none;
+top:57px;
 }
 .Blog p{
   background-image: url("stock-vector-communication-and-networking-in-a-digital-society-white-background-future-city-or-smart-city-1450416461.jpg");
