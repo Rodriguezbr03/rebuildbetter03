@@ -93,6 +93,7 @@ top:57px;
   min-width:250px;
   border-radius: 10%;
 }
+/*Container*/
 .Conteiner p{
 text-align: right;
 padding-right: none;
@@ -110,13 +111,14 @@ padding-left: 10px;
 float: right;
 border-radius: 20%;
 }
+/*id-form*/
 #fcf-form {
     display:block;
     text-align: center;
     background-color: #cce7e8;
 }
 
-
+/*body for contact*/
 .fcf-body {
     margin: 0;
     font-family: -apple-system, Arial, sans-serif;
@@ -132,11 +134,11 @@ border-radius: 20%;
     border-radius: 0.25rem;
     max-width: 100%;
 }
-
+/*margin-contact-position*/
 .fcf-form-group {
     margin-bottom: 1rem;
 }
-
+/*input-white-box-contact*/
 .fcf-input-group {
     position: relative;
     display: -ms-flexbox;
@@ -147,7 +149,7 @@ border-radius: 20%;
     align-items: stretch;
     width: 100%;
 }
-
+/*contact-display-form*/
 .fcf-form-control {
     display: block;
     width: 100%;
@@ -182,23 +184,23 @@ label.fcf-label {
     display: inline-block;
     margin-bottom: 0.5rem;
 }
-
+/*menu-form-footer for rebuildbetter03*/
 .fcf-credit {
     padding-top: 10px;
     font-size: 0.9rem;
     color: #545b62;
 }
-
+/*simple contact menu-form*/
 .fcf-credit a {
     color: #545b62;
     text-decoration: underline;
 }
-
+/*hover-color-for menu-form*/
 .fcf-credit a:hover {
     color: #0056b3;
     text-decoration: underline;
 }
-
+/*contact-form-position-display*/
 .fcf-btn .fcf-h3{
     display: inline-block;
     font-weight: 400;
@@ -218,13 +220,13 @@ label.fcf-label {
     border-radius: 0.25rem;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-
+/*transition*/
 @media (prefers-reduced-motion: reduce) {
     .fcf-btn {
         transition: none;
     }
 }
-
+/*hover for send-message form*/
 .fcf-btn:hover {
     color: #212529;
     text-decoration: none;
@@ -246,7 +248,7 @@ label.fcf-label {
     background-color: #0069d9;
     border-color: #0062cc;
 }
-
+/*contact-form-display*/
 .fcf-btn-primary:focus, .fcf-btn-primary.focus {
     color: #fff;
     background-color: #0069d9;
