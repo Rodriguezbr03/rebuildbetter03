@@ -28,6 +28,16 @@ text-align: center;
   top:-132px;
   border-radius: 50%;
 }
+/*outline-menu indetification*/
+.headers ul li a{
+border: 3px solid black;
+padding: 14px 28px;
+font-size: 16px;
+cursor: pointer;
+background-color: black;
+border-radius:9px;
+box-shadow: 7px 7px #cce7e8;
+}
 
 .headers ul{
 padding: 1px;
