@@ -97,9 +97,10 @@ paddig: 10px;
 }
 /*Container*/
 .Conteiner img{
-border-radius: 20%;
-width: 100%;
-height: auto;
+border-radius: none;
+display: block;
+margin-left: auto;
+margin-right: auto;
 }
 /*id-form*/
 #fcf-form {
